@@ -1,5 +1,5 @@
 class A{
 void welcome(){
-Message 
+gftyurHJJEVGYTR 6
 }
 }
